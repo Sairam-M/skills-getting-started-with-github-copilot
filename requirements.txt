@@ -1,4 +1,6 @@
-fastapi
+fastapi[all]
 uvicorn
 httpx
 watchfiles
+pytest
+pytest-cov
